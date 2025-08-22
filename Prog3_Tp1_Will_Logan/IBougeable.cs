@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Prog3_Tp1_Will_Logan
 {
-    interface IMobile
+    interface IBougeable
     {
-        void Mobile();
+        void Bouger(Organisme O,int deplacement_X, int deplacement_Y);
     }
 }
