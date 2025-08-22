@@ -1,0 +1,15 @@
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\obj\Debug\net8.0\Prog3_Tp1_Will_Logan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\obj\Debug\net8.0\Prog3_Tp1_Will_Logan.AssemblyInfoInputs.cache
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\obj\Debug\net8.0\Prog3_Tp1_Will_Logan.AssemblyInfo.cs
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\obj\Debug\net8.0\Prog3_Tp1_Will_Logan.csproj.CoreCompileInputs.cache
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\obj\Debug\net8.0\Prog3_Tp1_Will_Logan.sourcelink.json
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\bin\Debug\net8.0\Prog3_Tp1_Will_Logan.exe
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\bin\Debug\net8.0\Prog3_Tp1_Will_Logan.deps.json
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\bin\Debug\net8.0\Prog3_Tp1_Will_Logan.runtimeconfig.json
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\bin\Debug\net8.0\Prog3_Tp1_Will_Logan.dll
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\bin\Debug\net8.0\Prog3_Tp1_Will_Logan.pdb
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\obj\Debug\net8.0\Prog3_Tp1_Will_Logan.dll
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\obj\Debug\net8.0\refint\Prog3_Tp1_Will_Logan.dll
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\obj\Debug\net8.0\Prog3_Tp1_Will_Logan.pdb
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\obj\Debug\net8.0\Prog3_Tp1_Will_Logan.genruntimeconfig.cache
+C:\Users\6311993\Downloads\TP1_prog3_Will_Logan\Prog3_Tp1_Will_Logan\obj\Debug\net8.0\ref\Prog3_Tp1_Will_Logan.dll

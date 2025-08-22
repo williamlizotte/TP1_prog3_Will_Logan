@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Prog3_Tp1_Will_Logan
 {
-    internal class Verbaflora
+    class Verbaflora : Plante
     {
+        public Verbaflora() { }
     }
 }

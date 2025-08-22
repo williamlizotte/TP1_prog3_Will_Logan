@@ -8,6 +8,6 @@ namespace Prog3_Tp1_Will_Logan
 {
     interface IParlable
     {
-        void Parler();
+        void Parler(string message);
     }
 }

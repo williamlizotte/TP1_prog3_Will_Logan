@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prog3_Tp1_Will_Logan/1.0.0": {
+        "runtime": {
+          "Prog3_Tp1_Will_Logan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prog3_Tp1_Will_Logan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
